@@ -1,0 +1,35 @@
+.container{
+    margin-top: 100px;
+}
+.buy-naw{
+    
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 15px;
+    cursor: pointer;
+}
+.baground{
+    background-image: url("images/hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.card-footer{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer {
+    border: none;
+    background-color: white;
+}
+.card{
+    border: none;
+  
+}
+.copy{
+    text-align: center;
+    color: gray;
+}
